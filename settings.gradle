@@ -1,0 +1,3 @@
+rootProject.name = 'apleb'
+
+include 'apleb-api', 'apleb-ui'
